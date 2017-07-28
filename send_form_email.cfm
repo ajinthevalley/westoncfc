@@ -1,3 +1,21 @@
+
+
+<cfmail to="ajkane123@gmail.com" from="noreply@westoncfc.org" subject="Weston Test" type="html">
+    <table >
+        <tr>
+            <td>Name:</td><td>#first_name# #last_name#</td>
+        </tr>
+        <tr>
+            <td>Email:</td><td>#email#</td>
+        </tr>
+        <tr>
+            <td>Phone Number:</td><td>#telephone#</td>
+        </tr>
+        <tr>
+            <td>Comments:</td><td>#comments#</td>
+        </tr>
+    </table>
+</cfmail>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,57 +100,9 @@
     
   </div>
 </nav>
-<div class="container">
-    <form name="contactform" method="post" action="send_form_email.cfm">
-<table width="450px">
-<tr>
- <td valign="top">
-  <label for="first_name">First Name *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="first_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top"">
-  <label for="last_name">Last Name *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="last_name" maxlength="50" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="email">Email Address *</label>
- </td>
- <td valign="top">
-  <input  type="text" name="email" maxlength="80" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="telephone">Telephone Number</label>
- </td>
- <td valign="top">
-  <input  type="text" name="telephone" maxlength="30" size="30">
- </td>
-</tr>
-<tr>
- <td valign="top">
-  <label for="comments">Comments *</label>
- </td>
- <td valign="top">
-  <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
- </td>
-</tr>
-<tr>
- <td colspan="2" style="text-align:center">
-  <input type="submit" value="Submit">   <!-- <a href="form.php">Email Form</a> -->
- </td>
-</tr>
-</table>
-</form>
-</div>
+<div class="container" style="padding-top:50px;">
 
+<h1>Thank you for your email submission<h1>
+</div>
 </body>
 </html>
