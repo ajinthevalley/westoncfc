@@ -25,11 +25,20 @@
         </thead>
         <tbody>
             <tr>
+                <td><a href="http://www.westoncfc.org/sunjul30am.mp3" target="_blank">
+                Jul 30 AM - "What is Man" (Psalm 8)</a></td>
+                <td><a href="#" target="_blank">
+                </a></td>
+                <td><a href="#" target="_blank">
+                </a></td>
+            </tr>
+            <tr>
                 <td><a href="#" target="_blank">
                 </a></td>
                 <td><a href="http://www.westoncfc.org/sunjul23pm.mp3" target="_blank">
                 Jul 23 PM - "Personally Designed by God" (Psalm 139:13-24)</a></td>
-                <td></td>
+                <td><a href="http://www.westoncfc.org/wedjul26.mp3" target="_blank">
+                Jul 26 - David Hanson</a></td>
             </tr>
              <tr>
                 <td><a href="http://www.westoncfc.org/sunjul16am.mp3" target="_blank">
