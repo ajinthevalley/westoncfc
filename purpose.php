@@ -11,7 +11,7 @@
     <link rel="stylesheet"  href="css/style.css">
 
 </head>
-<body>
+<body id="purpose">
   <?php include("navbar.php");?>
 <!-- <div class="row">
     <div col-lg-4> </div>
@@ -44,5 +44,6 @@
 <div class="col-lg-4"> </div>
 </div> -->
     <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.3098625112552!2d-64.78982568470397!3d45.05922497909824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4b5842d5e2e7af2b%3A0x509d075fe72cae87!2sWeston+Christian+Fellowship!5e0!3m2!1sen!2sca!4v1500843165156" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+<script src="js/nav.js"></script>
 </body>
 </html>

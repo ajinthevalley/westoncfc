@@ -11,7 +11,7 @@
      <link rel="stylesheet"  href="css/style.css">
 
 </head>
-<body>
+<body id="email">
 <?php include("navbar.php");?>
 <div class="container">
     <form name="contactform" method="post" action="send_form_email.cfm">
@@ -64,6 +64,6 @@
 </table>
 </form>
 </div>
-
+<script src="js/nav.js"></script>
 </body>
 </html>

@@ -11,7 +11,7 @@
     <link rel="stylesheet"  href="css/style.css">
   
 </head>
-<body>
+<body id="Sermons">
 <?php include("navbar.php");?>        
 <div class="container text-center">
 <h1>Sermons</h1>
@@ -97,5 +97,6 @@
         </tbody>
     </table>
 </div>
+<script src="js/nav.js"></script>
 </body>
 </html>

@@ -8,7 +8,7 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item">
-        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item ">
         <a class="nav-link" href="about.php">About</a>
@@ -39,7 +39,7 @@
         <a class="nav-link" href="sermons.php">Sermons</a>
       </li>
     <li class="nav-item">
-        <a class="nav-link" href="https://westoncfc.wordpress.com/" target="_blank">Pastors Blog</a>
+        <a class="nav-link" href="https://westoncfc.wordpress.com/" target="_blank">Pastor's Blog</a>
       </li>
     </ul>
     </ul>

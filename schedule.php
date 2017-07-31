@@ -12,7 +12,7 @@
     <link rel="stylesheet"  href="css/style.css">
 
 </head>
-<body>
+<body id="schedule">
 <?php include("navbar.php");?> 
 
 <div class="container text-justify">
@@ -36,5 +36,6 @@ Sundy school  ages: from 2 years old to grade 9.  <u>All workers have had  secur
     </div>
 </div>
 </div>
+<script src="js/nav.js"></script>
     </body>
 </html>
