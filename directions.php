@@ -8,38 +8,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-<style>
-    .navbar-brand{
-        padding-left: 2rem;
-    }
-    .card{
-        padding: 1rem;
-    }
-    .container{
-        padding: 1rem;
-    }
-    .weston_arial{
-        width:100%;
-    }
-    .nav-item{
-        font-size: 12px;
-    }
-    .navbar-nav{
-        padding-left: 2rem;
-    }
-     .dropdown-item{
-        font-size: 12px;
-    }
-    .dropdown-menu{
-        background-color: #292b2c
-    }
-    .dropdown .dropdown-item{
-        color: #949596;
-    }
-    h1{
-        padding-top: 1rem
-    }
-</style>
+    <link rel="stylesheet"  href="css/style.css">
+
 </head>
 <body>
 <?php include("navbar.php");?>
