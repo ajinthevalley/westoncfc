@@ -9,28 +9,36 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     <link rel="stylesheet"  href="css/style.css">
-  
+
 </head>
 <body id="Sermons">
-<?php include("navbar.php");?>        
+<?php include("navbar.php");?>
 <div class="container text-center">
 <h1>Sermons</h1>
-</div> 
+</div>
 <div class="container">
     <table class="table table-bordered table-striped table-hover table-responsive offset-md-1">
         <thead class="bg-primary text-white col-4">
             <th class="text-center">Sunday Morning</th>
             <th class="text-center">Sunday Evening</th>
-            <th class="text-center">Wednesday Bible Study</th> 
+            <th class="text-center">Wednesday Bible Study</th>
         </thead>
         <tbody>
+          <tr>
+              <td><a href="http://www.westoncfc.org/sunaug6am.mp3" target="_blank">
+              Aug 6 AM - "The Unmoveable Christian" (Psalm 125) </a></td>
+              <td><a href="http://www.westoncfc.org/sunaug6pm.mp3" target="_blank">
+              Aug 6 PM - "For His Mercy Endureth Forever" (Psalm 136) </a></td>
+              <td><a href="#" target="_blank">
+              </a></td>
+          </tr>
             <tr>
                 <td><a href="http://www.westoncfc.org/sunjul30am.mp3" target="_blank">
                 Jul 30 AM - "What is Man" (Psalm 8)</a></td>
-                <td><a href="#" target="_blank">
-                </a></td>
-                <td><a href="#" target="_blank">
-                </a></td>
+                <td><a href="http://www.westoncfc.org/sunjul30pm.mp3" target="_blank">
+                Jul 30 PM "A Progression of Worship" (Psalm 24)</a></td>
+                <td><a href="http://www.westoncfc.org/wedaug3d.mp3" target="_blank">
+                Aug 3 - David Hanson</a></td>
             </tr>
             <tr>
                 <td><a href="#" target="_blank">
@@ -77,7 +85,7 @@
                 </a></td>
                 <td><a href="#" target="_blank">
                 </a></td>
-            </tr> 
+            </tr>
             <tr>
                 <td><a href="http://www.westoncfc.org/sunjun4am.mp3" target="_blank">
                 Jun 4 AM - David Hanson</a></td>
@@ -93,7 +101,7 @@
                 Jun 11 PM - "Go Change Your Dirty Clothes" (Eph. 4:17-32)</a></td>
                 <td><a href="#" target="_blank">
                 </a></td>
-            </tr>      
+            </tr>
         </tbody>
     </table>
 </div>
