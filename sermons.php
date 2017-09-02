@@ -25,12 +25,28 @@
         </thead>
         <tbody>
           <tr>
+              <td><a href="http://www.westoncfc.org/sunaug27am.mp3" target="_blank">
+              Aug 27 AM - "It is Better to Bend Than to Break" (Psalm 2)</a></td>
+              <td><a href="http://www.westoncfc.org/sunaug27pm.mp3" target="_blank">
+              Aug 27 PM - "When To Praise the Lord" (Psalm 145) </a></td>
+              <td><a href="#" target="_blank">
+              </a></td>
+          </tr>
+          <tr>
+              <td><a href="http://www.westoncfc.org/sunaug13am.mp3" target="_blank">
+              Aug 13 AM - "Dwelling Together in Unity" (Psalm 133)</a></td>
+              <td><a href="http://www.westoncfc.org/sunaug13pm.mp3" target="_blank">
+              Aug 13 PM - "I Can't Wait to go to Church" (Psalm 84) </a></td>
+              <td><a href="http://www.westoncfc.org/wedaug16.mp3" target="_blank">
+              Aug 16 - David Hanson</a></td>
+          </tr>
+          <tr>
               <td><a href="http://www.westoncfc.org/sunaug6am.mp3" target="_blank">
               Aug 6 AM - "The Unmoveable Christian" (Psalm 125) </a></td>
               <td><a href="http://www.westoncfc.org/sunaug6pm.mp3" target="_blank">
               Aug 6 PM - "For His Mercy Endureth Forever" (Psalm 136) </a></td>
-              <td><a href="#" target="_blank">
-              </a></td>
+              <td><a href="http://www.westoncfc.org/wedaug9.mp3" target="_blank">
+              Aug 9 - David Hanson</a></td>
           </tr>
             <tr>
                 <td><a href="http://www.westoncfc.org/sunjul30am.mp3" target="_blank">
