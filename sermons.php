@@ -25,12 +25,20 @@
         </thead>
         <tbody>
           <tr>
+              <td><a href="http://www.westoncfc.org/sunsep3am.mp3" target="_blank">
+              Sept 3 - "Character of the Kingdom Citizen" (Mt. 5:1-4)</a></td>
+              <td><a href="#" target="_blank">
+              </a></td>
+              <td><a href="#" target="_blank">
+              </a></td>
+          </tr>
+          <tr>
               <td><a href="http://www.westoncfc.org/sunaug27am.mp3" target="_blank">
               Aug 27 AM - "It is Better to Bend Than to Break" (Psalm 2)</a></td>
               <td><a href="http://www.westoncfc.org/sunaug27pm.mp3" target="_blank">
               Aug 27 PM - "When To Praise the Lord" (Psalm 145) </a></td>
-              <td><a href="#" target="_blank">
-              </a></td>
+              <td><a href="http://www.westoncfc.org/wedaug30.mp3" target="_blank">
+              Aug 30 - David Hanson</a></td>
           </tr>
           <tr>
               <td><a href="http://www.westoncfc.org/sunaug13am.mp3" target="_blank">
